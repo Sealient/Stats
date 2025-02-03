@@ -1,7 +1,23 @@
 {
-    "Repositories": 25,
-    "Commits": 1034,
-    "Stars": 210,
-    "Followers": 120,
-    "Pull Requests": 78
+    "Valorant Stats": {
+        "Rank": "Bronze 1",
+        "Peak Rank": "Silver 1",
+        "Top Map": "Abyss (61.1%) 11W - 6L",
+        "Damage/Round": 159.3,
+        "K/D Ratio": 1.17,
+        "Headshot %": 27.1,
+        "Win %": 48.3,
+        "Total Wins": 102,
+        "Total Kills": 3493,
+        "Total Deaths": 2988
+    },
+    "Rocket League Stats": {
+        "1s Rank": "Diamond 3",
+        "2s Rank": "Champ 3",
+        "3s Rank": "Champ 1",
+        "Peak Rank": "GC 1",
+        "Total Wins": 2570,
+        "Total Goals": 7840,
+        "Total Saves": 7117
+    }
 }
